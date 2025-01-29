@@ -4,7 +4,7 @@
 
 ## Introduction
 
-WASP 8 is a powerful tool for simulating water quality; however, it does not provide the flow generated from each sub-basin when used for basin-scale modeling. To address this limitation, it is necessary to integrate a hydrologic model to establish the required boundary conditions for WASP modeling. This integration will enable future predictions and scenario analyses based on the model. This code repository offers Python scripts to facilitate the integration of the SWAT model—one of the most widely used hydrologic models worldwide—with the WASP 8 kinematic wave simulation. This repository serves as a supplementary resource for the work presented in the paper titled “Simulation of Polycyclic Aromatic Compounds in the Athabasca River Basin: Integrated Models and Insights.”
+WASP 8 is a powerful tool for simulating water quality; however, it does not provide the flow generated from each sub-basin when used for basin-scale modeling. To address this limitation, it is necessary to integrate a hydrologic model to establish the required boundary conditions for WASP modeling. This integration will enable future predictions and scenario analyses based on the model. This code repository offers Python scripts to facilitate the integration of the SWAT model—one of the most widely used hydrologic models worldwide—with the WASP 8 kinematic wave simulation. This repository serves as a supplementary resource for the work presented in the paper titled “Simulation of Polycyclic Aromatic Compounds in the Athabasca River Basin: Integrated Models and Insights.”. The functionalities have also been tested using a Grand River basin model.
 
 ## Dependencies
 
